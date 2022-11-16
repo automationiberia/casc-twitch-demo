@@ -1,0 +1,8 @@
+---
+gitlab_api_url: http://ivan-gitlabrunner.bcnconsulting.com
+gitlab_validate_certs: False
+gitlab_group: acme
+gitlab_subgroup: ansible-controller
+gitlab_project: casc-twitch-demo
+workflow_job_template_name: "casc-twitch-demo WF_CasC_Ctrl"
+...

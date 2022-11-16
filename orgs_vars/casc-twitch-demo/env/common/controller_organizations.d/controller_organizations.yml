@@ -1,0 +1,9 @@
+---
+controller_organizations:
+  - name: "casc-twitch-demo"
+    description: "Organization casc-twitch-demo"
+    galaxy_credentials:
+      - "{{ orgs }} {{ env }} Automation Hub Community Repository"
+      - "{{ orgs }} {{ env }} Automation Hub Published Repository"
+      - "{{ orgs }} {{ env }} Automation Hub RH Certified Repository"
+...
